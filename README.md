@@ -25,4 +25,4 @@ O projeto utiliza as seguintes tecnologias e ferramentas:
 
 -JavaScript
 
-Você pode acessar a página do projeto [aqui](https://wnknight.github.io/around-react/).
+Você pode acessar a página do projeto [aqui](https://wmonteirodev.github.io/web_project_around_react/).
